@@ -6,7 +6,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https:// /
+[![Watch the demo](https://youtu.be/otCq3r_P3hw?si=cYm0JFfU0s1JVUw5)
 
 ## Features
 
